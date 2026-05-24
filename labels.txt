@@ -1,0 +1,15 @@
+0 apple
+1 banana
+2 burger
+3 pizza
+4 chawmein
+5 chilli potato
+6 Dahi bhalla
+7 French fries
+8 Maggi
+9 manchurian
+10 momos
+11 pani puri
+12 pasta
+13 pav bhaji
+14 sandwich
